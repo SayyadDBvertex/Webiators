@@ -33,7 +33,7 @@ export default function Header() {
           />
         </Link>
 
-        {/* Desktop Menu */}
+        {/* Desktop Mennuu*/}
         <nav className="hidden md:flex gap-8 text-lg font-medium text-black">
           {navItems.map((item, idx) => (
             <motion.div
